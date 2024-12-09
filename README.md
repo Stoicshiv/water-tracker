@@ -1,3 +1,3 @@
 # water-tracker
 ```bash
-  npm install shiv
+  npm install pookie-shiv
